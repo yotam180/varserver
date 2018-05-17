@@ -1,6 +1,6 @@
 <?php
 
-$content_path = "content";
+$content_path = "gs://rtds";
 
 header("Access-Control-Allow-Origin: *");
 
